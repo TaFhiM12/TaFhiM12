@@ -1,7 +1,7 @@
 # Hi there, I'm Tanvir Mahtab Tafhim 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TaFhiM12/TaFhiM12/main/Tanvir%20Mahtab%20Tafhim.jpg" alt="Profile Banner" style="width: 100%; height: 400px; object-fit: cover;"/>
+  <img src="https://raw.githubusercontent.com/TaFhiM12/TaFhiM12/main/Tanvir%20Mahtab%20Tafhim.png" alt="Profile Banner" style="width: 100%; height: 400px; object-fit: cover;"/>
 </div>
 
 ## 💻 Aspiring MERN Stack Developer | Computer Science Student @ JUST
