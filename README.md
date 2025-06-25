@@ -48,11 +48,13 @@ I'm currently immersed in mastering full-stack web development through comprehen
   <img src="https://streak-stats.demolab.com/?user=TaFhiM12&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 📫 Let's Connect
+## 🌐 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvir-mahtab-tafhim-78161b285/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvir-mahtab-tafhim-78161b285/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirmahtabtafhim@gmail.com)  
+
+📧 **Email:** tanvirmahtabtafhim@gmail.com 
+
 
 ## 🏆 GitHub Achievements
 
