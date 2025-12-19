@@ -96,7 +96,7 @@ I'm a passionate full-stack developer specializing in the MERN stack and modern 
 
 <div align="center">
   
-[![Download Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F8PkPqbs2hiiarzVX0QXZP3k5B_2_wOG/view?usp=sharing)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1oEf5dJ2OlFA8BZwNBP4K-3TXXZRRdcSo/view?usp=sharing)
 
 </div>
 
