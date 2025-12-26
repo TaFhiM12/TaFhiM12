@@ -4,18 +4,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Full%20Stack%20Developer&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20future%20with%20code&descAlignY=55&descSize=18" alt="Header Banner"/>
 </div>
 
-## 💼 Full Stack Web Developer | Computer Science Student @ JUST
+## 💼 Full Stack Developer | Computer Science Student @ JUST
 
-I'm a passionate full-stack developer specializing in the MERN stack and modern web technologies. I love crafting efficient, scalable applications with clean code and innovative solutions that address real-world challenges. Currently expanding my expertise in Next.js, TypeScript, and advanced problem-solving techniques.
+I'm a passionate full-stack developer specializing in the MERN stack and modern web technologies. I enjoy crafting efficient, scalable applications with clean code and innovative solutions. Currently expanding my expertise in **Next.js, TypeScript, Prisma, advanced backend development, and system architecture**.
 
 ---
 
 ## 🚀 Current Activities
 
-- 🔍 **Exploring Next.js & TypeScript** - Building type-safe, performant applications
-- 🧠 **Problem Solving with DSA** - Strengthening algorithmic thinking and data structures
-- 🗄️ **Database & Networking** - Deepening knowledge in data management and system architecture
-- 🌟 **Working on VolunTrack** - Smart Volunteer Management & Matching Website
+- 🔍 **Exploring Next.js & Prisma** - Building type-safe, performant, and database-driven applications  
+- 🧠 **Problem Solving with DSA** - Strengthening algorithmic thinking and data structures  
+- 🗄️ **Database & Backend Systems** - Deepening knowledge in MongoDB, PostgreSQL, and Prisma  
+- 🌟 **Working on VolunTrack** - Smart Volunteer Management & Matching Website  
 
 ---
 
@@ -43,11 +43,13 @@ I'm a passionate full-stack developer specializing in the MERN stack and modern 
 <div>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </div>
 
 ### Database
 <div>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </div>
 
 ### Tools & Platforms
@@ -60,6 +62,7 @@ I'm a passionate full-stack developer specializing in the MERN stack and modern 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
+
 
 ---
 
