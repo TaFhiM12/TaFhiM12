@@ -63,34 +63,6 @@ I'm a passionate full-stack developer specializing in the MERN stack and modern 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
 
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <!-- GitHub Overall Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaFhiM12&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaFhiM12&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaFhiM12&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=TaFhiM12&theme=tokyonight&no-frame=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-
 ---
 
 ## 📈 Contribution Activity
