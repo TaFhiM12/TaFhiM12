@@ -69,12 +69,16 @@ I'm a passionate full-stack developer specializing in the MERN stack and modern 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaFhiM12&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaFhiM12&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
+  <!-- GitHub Overall Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaFhiM12&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaFhiM12&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaFhiM12&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaFhiM12&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -82,8 +86,10 @@ I'm a passionate full-stack developer specializing in the MERN stack and modern 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TaFhiM12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=TaFhiM12&theme=tokyonight&no-frame=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
+
 
 ---
 
